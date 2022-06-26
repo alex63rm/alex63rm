@@ -1,7 +1,7 @@
 <h1>Profile Description</h1>
 Hello, I am <b>Alex Rodriguez</b>!<br><br>
 I am currently learning HTML and CSS in FreeCodeCamp, I want to learn Cibersecurity, Big Data and many more languages.<br><br>
-You can reach me in <strong>Discord alex63rm#9996</strong><br><br>
+You can reach me in <strong>Discord alex63rm#9996 // Slack @Alex63rm</strong><br><br>
 I look forward to joining <em>Urduliz 42 Campus!!<em>
 
 
