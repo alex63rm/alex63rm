@@ -4,7 +4,7 @@
 <p>Currently learning Shell and C. </p>
 <p>Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.</p>
 <p>You can reach me on <strong>Discord: alex63rm#9996 // Slack: @Alex63rm</strong></p>
-<p>I look forward to joining <em>Urduliz 42 Campus!!<em></p>
+<p>Currently studying at <em>Urduliz 42 Campus!!<em></p>
 
 
 <!---
