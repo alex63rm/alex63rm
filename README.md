@@ -5,6 +5,9 @@
 <p>Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.</p>
 <p>You can reach me on Slack: @alejarod</strong></p>
 
+<a href="https://github.com/alex63rm/get_next_line">Get_Next_Line</a>:
+[![alejarod's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8oq4qg600760gle7c6vx01o/project/2847789)](https://github.com/JaeSeoKim/badge42)
+
 <a href="https://github.com/alex63rm/born2beroot">born2beroot</a>:
 [![alejarod's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl8oq4qg600760gle7c6vx01o/project/2832685)](https://github.com/JaeSeoKim/badge42)
 
