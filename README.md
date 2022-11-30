@@ -3,7 +3,10 @@
 <h1>✨Hello & Welcome✨</b></h1>
 <p>Expert in finance, currently studying at <b>42 Urduliz</b>.</p>
 <p>Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.</p>
-<p>You can reach me on Slack: @alejarod</strong></p>
+<p>You can reach me on Discord: @AlexRM#9996</strong></p>
+
+
+[![alejarod's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl8oq4qg600760gle7c6vx01o/project/2898700)](https://github.com/JaeSeoKim/badge42)
 
 <a href="https://github.com/alex63rm/get_next_line">get_next_line</a>:
 [![alejarod's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl8oq4qg600760gle7c6vx01o/project/2847789)](https://github.com/JaeSeoKim/badge42)
