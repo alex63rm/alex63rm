@@ -9,8 +9,6 @@ Current project: push_swap
 
 Success: get_next_line, Born2beroot,ft_printf, Libft 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alex63rm&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex63rm&theme=tokyonight" alt="mystreak"/>
 
 <!--- [![alejarod's 42 stats](https://badge42.vercel.app/api/v2/cl8oq4qg600760gle7c6vx01o/stats?cursusId=21&coalitionId=175)](https://github.com/JaeSeoKim/badge42) --->
