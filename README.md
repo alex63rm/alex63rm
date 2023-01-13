@@ -7,7 +7,11 @@
 
 Current project: push_swap
 
-Success: get_next_line, Born2beroot,ft_printf, Libft 
+Success: get_next_line, Born2beroot,ft_printf, Libft
+
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex63rm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex63rm&theme=tokyonight" alt="mystreak"/>
 
