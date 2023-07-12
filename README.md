@@ -3,7 +3,6 @@
 <h1>✨Hello & Welcome✨</b></h1>
 <p>Expert in finance, currently studying at <b>42 Urduliz</b>.</p>
 <p>Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.</p>
-<p>You can reach me on Linkedin: https://www.linkedin.com/in/alejandrormc/
 
 Current project: philosphers, minishell
 
