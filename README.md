@@ -3,11 +3,11 @@
 <h1>✨Hello & Welcome✨</b></h1>
 <p>Expert in finance, currently studying at <b>42 Urduliz</b>.</p>
 <p>Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.</p>
-<p>You can reach me on Discord: @AlexRM#9996</strong></p>
+<p>You can reach me on Linkedin: https://www.linkedin.com/in/alejandrormc/
 
-Current project: pipex
+Current project: philosphers, minishell
 
-Success: push_swap, get_next_line, Born2beroot,ft_printf, Libft
+Success: pipex, so_long, push_swap, get_next_line, Born2beroot,ft_printf, Libft
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex63rm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
