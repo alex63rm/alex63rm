@@ -1,9 +1,12 @@
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)
 
+<!--## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨Hello!+Welcome!✨;)](https://git.io/typing-svg)<br> -->
 # ✨Hello & Welcome✨
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)<br>
+
+
 Expert in finance, acquiring programming skills at <b>42 Urduliz.</b><br>
-Interested in Cibersecurity, blockchain, following Chia Network, Helium and Kaspa projects.<br>
-My main motivation is to keep learning and growing while dealing with the challenges that the current market and new technologies offer.
+Interested in Cibersecurity & Blockchain. Following Chia Network, Helium and Kaspa projects.<br>
+My main motivation is to keep learning and growing about interacting with technology.<br>
 
 ## Contact Me
 
