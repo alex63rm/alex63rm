@@ -1,8 +1,8 @@
 
 <!--## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✨Hello!+Welcome!✨;)](https://git.io/typing-svg)<br> -->
 # ✨Hello & Welcome✨
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)<br>
 
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=alex63rm&data=followers,repositories,stars,commits)<br>
 
 Expert in finance, acquiring programming skills at <b>42 Urduliz.</b><br>
 Interested in Cibersecurity & Blockchain. Following Chia Network, Helium and Kaspa projects.<br>
@@ -14,9 +14,8 @@ My main motivation is to keep learning and growing about interacting with techno
 
 ## Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alex63rm&theme=dark&mode=weekly)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex63rm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alex63rm&theme=tokyonight" alt="mystreak"/>
 
 ## Languages & Skills
 
